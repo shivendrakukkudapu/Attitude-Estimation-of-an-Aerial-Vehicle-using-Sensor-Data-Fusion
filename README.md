@@ -1,4 +1,4 @@
-#Attitude Estimation of an Aerial Vehicle Using Sensor Data Fusion
+# Attitude Estimation of an Aerial Vehicle Using Sensor Data Fusion
 Overview
 This project involves estimating the 3D orientation of an aerial vehicle using data from a 6-DoF IMU sensor and comparing it with ground truth from a Vicon motion capture system. The project is divided into two phases:
 
