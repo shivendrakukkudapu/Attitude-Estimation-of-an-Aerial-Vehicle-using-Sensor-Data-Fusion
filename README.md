@@ -26,6 +26,4 @@ Accelerometer-Based Orientation
 Complementary Filter Orientation
 
 
-References
-IMU Sensor Data
-Ground Truth Data
+
